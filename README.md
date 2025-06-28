@@ -103,6 +103,6 @@ test
 ## 📧 Contact
 
 **Your Name**
-Email: [your.email@ogr.deu.edu.tr](mailto:your.email@ogr.deu.edu.tr)
+Email: [2022510158@ogr.deu.edu.tr(mailto:2022510158@ogr.deu.edu.tr)
 
 Feel free to contribute via pull requests or open issues! :)
